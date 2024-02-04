@@ -1,0 +1,471 @@
+MATCH ,TEAM,Auto Gear,Auto Fuel,Tele Gear,Tele Fuel,Climb,Extra
+1,2501,0,0,2,0,0.5,did not press button
+1,3610,0,0,0,0,0,did not attempt
+1,3292,0,0,0,16,0,did not attempt
+1,2227,0,0,2,0,1,climbed successfully
+1,3633,0,0,3,0,1,climbed successfully
+1,5278,0,0,1,0,0.5,did not press button
+2,2883,1,0,3,0,1,climbed successfully
+2,4239,1,0,2,0,1,climbed successfully
+2,3277,1,0,0,8,1,climbed successfully
+2,6480,1,0,2,0,0,did not attempt
+2,2525,1,0,0,0,0,did not attempt
+2,5826,1,0,2,0,1,climbed successfully
+3,2450,0,0,1,0,0.5,did not press button
+3,4225,0,0,0,0,0,did not attempt
+3,2654,0,0,1,0,0,did not attempt
+3,2225,0,0,0,0,0.5,did not press button
+3,3848,0,0,1,0,1,climbed successfully
+3,2129,0,0,2,0,0,did not attempt
+4,2177,0,0,0,0,1,climbed successfully
+4,4687,0,0,1,0,0,did not attempt
+4,2957,0,0,2,0,1,climbed successfully
+4,2667,0,0,1,0,1,climbed successfully
+4,3926,0,0,1,0,1,climbed successfully
+5,4663,0,0,3,0,1,climbed successfully
+5,5541,0,0,3,0,1,climbed successfully
+5,4632,0,0,1,0,0.5,did not press button
+5,5801,0,0,5,0,1,climbed successfully
+5,3206,0,0,3,0,1,climbed successfully
+5,5275,0,0,0,0,0.5,did not press button
+6,3042,0,0,2,2,0.5,did not press button
+6,4277,0,0,1,0,0,did not attempt
+6,4648,0,0,0,0,0,did not attempt
+6,5290,0,0,1,0,1,climbed successfully
+6,4215,0,0,2,0,0,did not attempt
+6,2549,0,0,1,0,0.5,did not press button
+7,4693,1,0,1,0,0,did not attempt
+7,3691,1,0,1,0,1,climbed successfully
+7,2606,1,0,2,0,1,climbed successfully
+7,3130,1,0,1,2,1,climbed successfully
+7,2574,1,0,2,0,1,climbed successfully
+7,3883,1,0,1,0,0,did not attempt
+8,1710,0,0,4,0,1,climbed successfully
+8,5340,0,0,0,0,0,did not attempt
+8,4665,0,0,2,0,1,climbed successfully
+8,4778,0,0,0,0,0,
+8,5464,0,0,4,0,0.5,did not press button
+8,2472,0,0,0,0,0,did not attempt
+9,1806,0,0,3,0,1,climbed successfully
+9,2169,0,0,3,0,0.5,did not press button
+9,5576,0,0,1,0,0,did not attempt
+9,3018,0,0,0,0,0,did not attempt
+9,4626,0,0,0,0,0,did not attempt
+9,6749,0,0,1,0,0,did not attempt
+10,3928,1,0,2,0,1,climbed successfully
+10,2207,1,0,1,0,0.5,did not press button
+10,5626,1,0,0,0,0.5,did not press button
+10,3197,1,0,2,0,1,climbed successfully
+10,3055,1,0,1,0,0.5,did not press button
+11,2883,0,0,4,0,1,climbed successfully
+11,2654,0,0,1,0,0.5,did not press button
+11,4663,0,0,3,0,1,climbed successfully
+11,3610,0,0,0,0,0,did not attempt
+11,5275,0,0,1,0,0,did not attempt
+11,2957,0,0,4,0,0,did not attempt
+12,2667,0,0,2,0,0.5,did not press button
+12,5541,0,0,0,0,0.5,did not press button
+12,2574,0,0,2,0,1,climbed successfully
+12,2501,0,0,3,0,1,climbed successfully
+12,4693,0,0,1,0,0.5,did not press button
+12,3277,0,0,0,0,1,climbed successfully
+13,2472,0,0,0,0,0,did not attempt
+13,3848,0,0,3,0,0,did not attempt
+13,2549,0,0,1,0,0,did not attempt
+13,2177,0,0,2,0,0.5,did not press button
+13,3206,0,0,3,0,1,climbed successfully
+13,2606,0,0,3,0,0,fell off rope
+14,1710,0,0,5,0,0,did not attempt
+14,3883,0,0,2,0,1,climbed successfully
+14,4225,0,0,0,0,0,did not attempt
+14,3292,0,0,0,2,0,did not attempt
+14,4687,0,0,0,0,0,did not attempt
+14,4215,0,0,0,0,0,did not attempt
+15,3926,0,0,2,0,1,climbed successfully
+15,5278,0,0,2,0,1,climbed successfully
+15,5340,0,0,2,0,0,did not attempt
+15,3042,0,0,2,1,1,climbed successfully
+15,3197,0,0,3,0,0,fell off rope
+16,2207,1,0,1,0,0,rope snapped
+16,4277,1,0,0,0,1,climbed successfully
+16,5626,1,0,0,0,0,did not attempt
+16,6480,1,0,1,0,0,did not attempt
+16,2169,1,0,2,0,1,climbed successfully
+16,3130,1,0,4,0,1,climbed successfully
+17,2175,0,0,4,0,1,climbed successfully
+17,2491,0,0,2,0,1,climbed successfully
+17,4632,0,0,1,0,1,climbed successfully
+17,4239,0,0,1,0,1,climbed successfully
+17,3691,0,0,0,0,0,did not attempt
+17,5576,0,0,2,0,1,climbed successfully
+18,2525,0,0,0,0,0,did not attempt
+18,2227,0,0,2,0,1,climbed successfully
+18,4665,0,0,2,0,1,climbed successfully
+18,3928,0,0,2,7,1,climbed successfully
+18,2129,0,0,2,0,1,climbed successfully
+18,1806,0,0,1,0,1,climbed successfully
+19,5801,0,0,4,0,1,climbed successfully
+19,2225,0,0,3,0,1,climbed successfully
+19,3055,0,0,4,0,1,climbed successfully
+19,4648,0,0,2,0,1,climbed successfully
+19,5464,0,0,3,0,1,climbed successfully
+19,4626,0,0,0,0,0,did not attempt
+20,3633,0,0,2,0,1,climbed successfully
+20,5826,0,0,2,0,0.5,did not press button
+20,3018,0,0,2,0,0.5,did not press button
+20,6749,0,0,4,0,0,did not attempt
+20,5290,0,0,1,0,0,did not attempt
+20,4778,0,0,1,0,0,did not attempt
+21,3277,0,0,0,35,1,climbed successfully
+21,1710,0,0,3,0,1,climbed successfully
+21,3926,0,0,2,0,0.5,did not press button
+21,3610,0,0,1,0,0,did not attempt
+21,4277,0,0,2,0,1,climbed successfully
+22,4663,0,0,2,0,1,climbed successfully
+22,2654,0,0,1,0,0,did not attempt
+22,2606,0,0,3,0,0.5,did not press button
+22,2175,0,0,0,0,1,climbed successfully
+22,3292,0,0,0,0,0,did not attempt
+23,5275,0,0,1,0,0.5,did not press button
+23,2227,0,0,2,0,1,climbed successfully
+23,5576,0,0,3,0,1,climbed successfully
+23,2549,0,0,1,0,0.5,did not press button
+23,2574,0,0,4,0,1,climbed successfully
+24,3197,0,0,2,0,1,climbed successfully
+24,3691,0,0,2,0,0,
+24,4648,0,0,1,0,0,
+24,2129,0,0,1,0,1,climbed successfully
+24,6480,0,0,0,0,0,did not attempt
+24,5340,0,0,2,0,0,did not attempt
+25,4687,0,0,2,0,0,
+25,3018,0,0,3,0,0.5,did not press button
+25,3928,0,0,4,0,1,climbed successfully
+25,2501,0,0,3,0,1,climbed successfully
+25,5541,0,0,2,0,0.5,did not press button
+25,4239,0,0,2,0,1,climbed successfully
+26,3848,0,0,2,0,1,climbed successfully
+26,5626,0,0,2,0,0,did not attempt
+26,2883,0,0,3,6,1,climbed successfully
+26,4778,0,0,1,0,0,did not attempt
+27,4225,0,0,0,0,0,did not attempt
+27,5290,0,0,1,0,0.5,did not press button
+27,2472,0,0,3,0,1,climbed successfully
+27,1806,0,0,3,0,1,climbed successfully
+27,3055,0,0,0,5,0,did not attempt
+27,2491,0,0,4,0,1,climbed successfully
+28,3042,0,0,2,0,1,climbed successfully
+28,3130,0,0,5,2,1,climbed successfully
+28,5801,0,0,2,0,1,climbed successfully
+28,6749,0,0,4,0,0,did not attempt
+28,2525,0,0,1,0,0,did not attempt
+28,2957,0,0,2,0,0.5,did not press button
+29,4632,0,0,1,0,1,climbed successfully
+29,2225,0,0,1,0,1,climbed successfully
+29,4215,0,0,1,0,1,climbed successfully
+29,4665,0,0,2,0,1,climbed successfully
+29,2177,0,0,2,0,1,climbed successfully
+29,4693,0,0,1,0,0,
+30,2450,0,0,0,0,0,did not attempt
+30,3633,0,0,2,0,1,climbed successfully
+30,3883,0,0,3,0,1,climbed successfully
+30,2667,0,0,2,0,1,climbed successfully
+30,5464,0,0,3,0,1,climbed successfully
+30,5826,0,0,3,0,0,did not attempt
+31,3197,0,0,2,0,1,climbed successfully
+31,2549,0,0,3,0,0.5,did not press button
+31,3691,0,0,0,0,0.5,did not press button
+31,3292,0,0,0,0,0,did not attempt
+31,2129,0,0,2,0,0,did not attempt
+31,2883,0,0,2,0,1,climbed successfully
+32,3610,0,0,1,0,1,climbed successfully
+32,3018,0,0,3,0,0.5,did not press button
+32,4648,0,0,1,0,1,climbed successfully
+32,5626,0,0,0,0,0,did not attempt
+32,2574,0,0,3,0,1,climbed successfully
+32,4239,0,0,1,0,1,climbed successfully
+33,2957,0,0,3,0,1,climbed successfully
+33,3042,0,0,2,0,1,climbed successfully
+33,2227,0,0,2,0,1,climbed successfully
+33,4626,0,0,0,0,0,did not attempt
+33,5541,0,0,3,0,0,did not attempt
+33,4225,0,0,0,0,0,did not attempt
+34,4687,0,0,1,0,1,climbed successfully
+34,1806,0,0,3,0,0.5,did not press button
+34,2654,0,0,1,0,0,
+34,5340,0,0,0,0,0,did not attempt
+34,3130,0,0,4,0,1,climbed successfully
+34,4632,0,0,1,0,1,climbed successfully
+35,5576,0,0,2,0,1,climbed successfully
+35,4215,0,0,4,0,0.5,did not press button
+35,2525,0,0,1,0,0,did not attempt
+35,3633,0,0,3,0,0,did not attempt
+35,2472,0,0,1,0,1,climbed successfully
+36,4778,0,0,2,0,0,did not attempt
+36,4277,0,0,1,0,0.5,did not press button
+36,4663,0,0,3,0,1,climbed successfully
+36,3055,0,0,3,0,1,climbed successfully
+36,2177,0,0,1,0,1,climbed successfully
+37,2225,1,0,2,0,1,climbed successfully
+37,2501,1,0,1,0,0.5,did not press button
+37,5464,1,0,4,0,0.5,did not press button
+37,5290,1,0,1,0,1,climbed successfully
+38,2207,0,0,0,0,1,climbed successfully
+38,3926,0,0,1,0,0.5,did not press button
+38,4693,0,0,0,0,0,did not attempt
+38,4665,0,0,0,0,1,climbed successfully
+38,5801,0,0,3,0,1,climbed successfully
+38,3848,0,0,3,0,1,climbed successfully
+39,6749,0,0,3,0,0,did not attempt
+39,6480,0,0,1,1,0,did not attempt
+39,2175,0,0,0,0,0,did not attempt
+39,1710,0,0,4,0,1,climbed successfully
+39,5275,0,0,2,0,0,did not attempt
+39,2450,0,0,2,0,1,climbed successfully
+40,2491,0,0,2,0,1,climbed successfully
+40,3928,0,0,3,5,1,climbed successfully
+40,5278,0,0,0,0,0.5,did not press button
+40,3206,0,0,3,0,1,climbed successfully
+40,3277,0,0,0,0,1,climbed successfully
+40,2169,0,0,4,0,1,climbed successfully
+41,5576,0,0,0,0,0.5,did not press button
+41,3633,0,0,2,0,1,climbed successfully
+41,5541,0,0,1,0,1,climbed successfully
+41,2129,0,0,1,0,1,climbed successfully
+41,4277,0,0,0,0,1,climbed successfully
+42,2525,0,0,0,0,0,did not attempt
+42,3883,0,0,2,0,1,climbed successfully
+42,4626,0,0,1,0,0.5,did not press button
+42,3197,0,0,2,0,1,climbed successfully
+42,2501,0,0,3,0,0.5,did not press button
+42,2177,0,0,2,0,1,climbed successfully
+43,2225,0,0,1,0,1,climbed successfully
+43,2667,0,0,0,0,0,did not attempt
+43,2549,0,0,1,0,0,did not attempt
+43,4663,0,0,2,0,1,climbed successfully
+43,1806,0,0,2,0,1,climbed successfully
+43,5626,0,0,2,0,0,did not attempt
+44,5290,0,0,1,0,1,climbed successfully
+44,4632,0,0,1,0,0.5,did not press button
+44,3926,0,0,2,0,1,climbed successfully
+44,3292,0,0,0,0,0,did not attempt
+44,6480,0,0,1,0,0,did not attempt
+44,3848,0,0,3,0,0,did not attempt
+45,4778,0,0,1,0,0.5,did not press button
+45,2450,0,0,3,0,1,climbed successfully
+45,2169,0,0,6,0,1,climbed successfully
+45,4687,0,0,0,0,1,climbed successfully
+45,3691,0,0,2,0,1,climbed successfully
+46,5275,0,0,1,0,0.5,did not press button
+46,4215,0,0,3,0,1,climbed successfully
+46,2606,0,0,2,0,1,climbed successfully
+46,5340,0,0,1,0,0.5,did not press button
+46,3277,0,0,0,13,1,climbed successfully
+46,3055,0,0,0,0,0.5,did not press button
+47,2606,0,0,2,0,0.5,did not press button
+47,5826,0,0,3,0,1,climbed successfully
+47,4648,0,0,1,0,1,climbed successfully
+47,2175,0,0,0,0,1,climbed successfully
+47,2472,0,0,2,0,1,climbed successfully
+47,5278,0,0,3,0,0,did not attempt
+47,2957,0,0,3,0,0.5,did not press button
+48,2654,0,0,1,0,0.5,did not press button
+48,4239,0,0,2,0,1,climbed successfully
+48,2207,0,0,1,0,1,climbed successfully
+48,4665,0,0,1,0,0.5,did not press button
+48,3042,0,0,2,0,1,climbed successfully
+48,3206,0,0,4,0,1,climbed successfully
+49,5801,0,0,5,0,1,climbed successfully
+49,4693,0,0,2,0,0,did not attempt
+49,3018,0,0,4,0,0.5,did not press button
+49,2227,0,0,3,0,1,climbed successfully
+49,1710,0,0,7,0,0.5,did not press button
+49,2491,0,0,2,0,1,climbed successfully
+50,6749,0,0,3,0,1,climbed successfully
+50,3928,0,0,3,0,1,climbed successfully
+50,4225,0,0,0,0,0,
+50,5464,0,0,2,0,1,climbed successfully
+50,2574,0,0,2,0,1,climbed successfully
+50,2883,0,0,4,0,1,climbed successfully
+51,5626,0,0,2,0,0.5,did not press button
+51,2501,0,0,4,0,1,climbed successfully
+51,3926,0,0,1,0,1,climbed successfully
+51,5275,0,0,1,0,0.5,did not press button
+51,3633,0,0,2,0,1,climbed successfully
+51,3691,0,0,2,0,1,climbed successfully
+52,4648,0,0,2,0,1,climbed successfully
+52,3277,0,0,0,19,1,climbed successfully
+52,5576,0,0,2,0,1,climbed successfully
+52,2225,0,0,1,1,1,climbed successfully
+52,3292,0,0,0,2,0,did not attempt
+52,3883,0,0,3,4,1,climbed successfully
+53,2129,1,0,0,0,0,did not attempt
+53,6480,1,0,2,0,0,did not attempt
+53,2606,1,0,1,0,1,climbed successfully
+53,3042,1,0,1,0,1,climbed successfully
+53,4632,1,0,0,0,0.5,did not press button
+53,4778,1,0,0,0,0,fell off rope
+54,2450,0,0,3,0,1,climbed successfully
+54,3055,0,0,2,0,1,climbed successfully
+54,2549,0,0,3,0,0.5,did not press button
+54,4665,0,0,2,0,0.5,did not press button
+54,3018,0,0,3,0,1,climbed successfully
+54,2957,0,0,2,0,1,climbed successfully
+55,1710,0,0,4,0,1,climbed successfully
+55,4239,0,0,2,0,0.5,did not press button
+55,3130,0,0,6,0,1,climbed successfully
+55,2177,0,0,2,0,0,rope snapped
+55,5278,0,0,0,0,0.5,did not press button
+56,4626,0,0,1,0,0.5,did not press button
+56,4693,0,0,0,0,0,did not attempt
+56,2472,0,0,3,0,1,climbed successfully
+56,3610,0,0,1,0,0.5,did not press button
+56,3928,0,0,4,0,1,climbed successfully
+56,2207,0,0,2,0,1,climbed successfully
+,,,,,,1,climbed successfully
+,,,,,,1,climbed successfully
+,,,,,,1,climbed successfully
+,,,,,,1,climbed successfully
+,,,,,,0.5,did not press button
+,,,,,,1,climbed successfully
+,,,,,,0,did not attempt
+,,,,,,0.5,did not press button
+,,,,,,1,climbed successfully
+,,,,,,0.5,did not press button
+,,,,,,0.5,did not press button
+,,,,,,1,climbed successfully
+,,,,,,1,climbed successfully
+,,,,,,0.5,did not press button
+,,,,,,1,climbed successfully
+,,,,,,0.5,did not press button
+,,,,,,1,climbed successfully
+,,,,,,0.5,did not press button
+,,,,,,1,climbed successfully
+,,,,,,1,climbed successfully
+,,,,,,1,climbed successfully
+,,,,,,1,climbed successfully
+,,,,,,1,climbed successfully
+,,,,,,1,climbed successfully
+,,,,,,0.5,did not press button
+,,,,,,0,did not attempt
+,,,,,,1,climbed successfully
+,,,,,,1,climbed successfully
+,,,,,,1,climbed successfully
+,,,,,,1,climbed successfully
+,,,,,,0,did not attempt
+,,,,,,1,climbed successfully
+,,,,,,1,climbed successfully
+,,,,,,0.5,did not press button
+,,,,,,1,climbed successfully
+,,,,,,1,climbed successfully
+,,,,,,0.5,did not press button
+,,,,,,1,climbed successfully
+,,,,,,0,did not attempt
+,,,,,,1,climbed successfully
+,,,,,,0,did not attempt
+,,,,,,0,did not attempt
+,,,,,,0.5,did not press button
+,,,,,,0,did not attempt
+,,,,,,1,climbed successfully
+,,,,,,1,climbed successfully
+,,,,,,1,climbed successfully
+,,,,,,0,did not attempt
+,,,,,,0,did not attempt
+,,,,,,0,did not attempt
+,,,,,,0,did not attempt
+,,,,,,0.5,did not press button
+,,,,,,0,did not attempt
+,,,,,,0,did not attempt
+,,,,,,0,did not attempt
+,,,,,,1,climbed successfully
+,,,,,,1,climbed successfully
+,,,,,,0.5,did not press button
+,,,,,,0.5,did not press button
+,,,,,,1,climbed successfully
+,,,,,,1,climbed successfully
+,,,,,,0.5,did not press button
+,,,,,,0.5,did not press button
+,,,,,,1,climbed successfully
+,,,,,,1,climbed successfully
+,,,,,,1,climbed successfully
+,,,,,,1,climbed successfully
+,,,,,,0.5,did not press button
+,,,,,,0,did not attempt
+,,,,,,1,climbed successfully
+,,,,,,1,climbed successfully
+,,,,,,1,climbed successfully
+,,,,,,1,climbed successfully
+,,,,,,1,climbed successfully
+,,,,,,1,climbed successfully
+,,,,,,1,climbed successfully
+,,,,,,1,climbed successfully
+,,,,,,1,climbed successfully
+,,,,,,1,climbed successfully
+,,,,,,1,climbed successfully
+,,,,,,0.5,did not press button
+,,,,,,1,climbed successfully
+,,,,,,1,climbed successfully
+,,,,,,0,did not attempt
+,,,,,,1,climbed successfully
+,,,,,,0.5,did not press button
+,,,,,,1,climbed successfully
+,,,,,,0.5,did not press button
+,,,,,,1,climbed successfully
+,,,,,,0,did not attempt
+,,,,,,1,climbed successfully
+,,,,,,0,did not attempt
+,,,,,,0.5,did not press button
+,,,,,,1,climbed successfully
+,,,,,,1,climbed successfully
+,,,,,,0.5,did not press button
+,,,,,,1,climbed successfully
+,,,,,,1,climbed successfully
+,,,,,,1,climbed successfully
+,,,,,,1,climbed successfully
+,,,,,,1,climbed successfully
+,,,,,,0,did not attempt
+,,,,,,1,climbed successfully
+,,,,,,0.5,did not press button
+,,,,,,0.5,did not press button
+,,,,,,1,climbed successfully
+,,,,,,0.5,did not press button
+,,,,,,1,climbed successfully
+,,,,,,0.5,did not press button
+,,,,,,0,did not attempt
+,,,,,,1,climbed successfully
+,,,,,,1,climbed successfully
+,,,,,,1,climbed successfully
+,,,,,,0,did not attempt
+,,,,,,0.5,did not press button
+,,,,,,1,climbed successfully
+,,,,,,1,climbed successfully
+,,,,,,1,climbed successfully
+,,,,,,1,climbed successfully
+,,,,,,0.5,did not press button
+,,,,,,0,did not attempt
+,,,,,,1,climbed successfully
+,,,,,,1,climbed successfully
+,,,,,,1,climbed successfully
+,,,,,,1,climbed successfully
+,,,,,,1,climbed successfully
+,,,,,,0.5,did not press button
+,,,,,,0,did not attempt
+,,,,,,1,climbed successfully
+,,,,,,1,climbed successfully
+,,,,,,1,climbed successfully
+,,,,,,1,climbed successfully
+,,,,,,0.5,did not press button
+,,,,,,0,did not attempt
+,,,,,,1,climbed successfully
+,,,,,,0,did not attempt
+,,,,,,1,climbed successfully
+,,,,,,1,climbed successfully
+,,,,,,1,climbed successfully
+,,,,,,1,climbed successfully
+,,,,,,1,climbed successfully
+,,,,,,1,climbed successfully
+,,,,,,0.5,did not press button
+,,,,,,1,climbed successfully
+,,,,,,1,climbed successfully
+,,,,,,1,climbed successfully
+,,,,,,0.5,did not press button
+,,,,,,CLIMB,
